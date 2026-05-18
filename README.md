@@ -35,6 +35,3 @@ This project presents a Supply Chain and Logistics Dashboard developed in Power 
 ## Objective
 To analyze and visualize supply chain operations and logistics performance using Power BI dashboards and business intelligence techniques.
 
-## Dashboard Preview
-
-(Add screenshots here)
